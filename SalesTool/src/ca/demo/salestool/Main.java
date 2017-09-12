@@ -7,7 +7,7 @@ public class Main {
 		data.display();
 	}
     private static void displayGreeting(){
-    	System.out.println("Hello Happy Sales People13");
+    	System.out.println("Hello Happy Sales People12345");
     	System.out.println("This app shows sales data");
     }
 }
